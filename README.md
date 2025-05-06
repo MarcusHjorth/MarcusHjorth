@@ -1,8 +1,8 @@
-### Hi I'm Marcus👋
-<h1 align="center"> Hi I'm Marcus👋 </h1>
+<div align="center">
+  <h1 align="center"> Hi I'm Marcus👋 </h1>
+  <p align="center">I am a student full-stack developer with a passion for frontned development. </p>
+</div>
 
-
-<p align="center">I am a student full-stack developer with a passion for frontned development. </p>
 
 ---
 

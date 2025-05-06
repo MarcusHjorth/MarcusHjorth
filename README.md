@@ -10,8 +10,7 @@ I am a student full-stack developer with a passion for frontned development.
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 #### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcusHjorth&show_icons=true&theme=default)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 
 
 

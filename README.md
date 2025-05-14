@@ -1,7 +1,7 @@
   
-  <h1 align="center"> Hi I'm Marcus👋 </h1>
+  <h1> Hi I'm Marcus👋 </h1>
   
-  <p align="center">I am a student full-stack developer with a passion for frontned development. </p>
+  <p>I am a student full-stack developer with a passion for frontned development. </p>
 
 
 ---

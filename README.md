@@ -1,7 +1,7 @@
   
   <h1> Hi I'm Marcus👋 </h1>
   
-  <p>I am a student full-stack developer with a passion for frontned development. </p>
+  <p>I am a student full-stack developer with a passion for frontend development. </p>
 
 
 ---
